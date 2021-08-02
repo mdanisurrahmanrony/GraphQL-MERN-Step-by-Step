@@ -1,4 +1,13 @@
-# graphql-playlist
-All course files for the GraphQL tutorial playlist on The Net Ninja YouTube channel.
+## GraphQL-MERN Step by Step
 
-Node modules are not included in the course files. After download, run npm install to install the modules (client and server folders)
+> Learn GraphQL-MERN Step by Step
+
+#### This project was created using YouTube playlist which link is given in below.
+
+#### Different lessons were given in the different branch. To get those checkout particular branch for particular lesson.
+
+### YouTube Playlist Link
+
+```
+https://youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
+```
